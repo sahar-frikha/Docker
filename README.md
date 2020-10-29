@@ -20,7 +20,7 @@ Il explique les éléments suivants : <br>
 ### Mots clés : Virtualisation, Containerisation, VirtualBox, Docker, SWARM, KUBERNETES, Docker Composer <br>
 
 
-<a href="https://www.ionos.fr/digitalguide/sites-internet/developpement-web/fichier-readme/"></a>
+https://www.ionos.fr/digitalguide/sites-internet/developpement-web/fichier-readme/
 # Headline H1
 ## Headline H2
 ### Headline H3
