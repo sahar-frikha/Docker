@@ -15,6 +15,7 @@ https://www.youtube.com/watch?v=i59aomYih_4&t=25s <br>
   Docker Hub : https://hub.docker.com/
 
 https://www.youtube.com/watch?v=S9m0mTXZEC8&list=PLxr551TUsmApVwBMzhtLqrWqcKQs4sh19&index=5 <br>
+https://www.youtube.com/watch?v=srGiAlnNsDU&list=PLxr551TUsmApVwBMzhtLqrWqcKQs4sh19&index=6 <br>
 • Installation et mise en œuvre de docker <br>
   Docker : https://docs.docker.com/engine/install/ubuntu/
 • Cycle de vie des images Docker <br>
@@ -26,9 +27,14 @@ https://www.youtube.com/watch?v=S9m0mTXZEC8&list=PLxr551TUsmApVwBMzhtLqrWqcKQs4s
 • Orchestration des conteneurs Docker avec SWARM <br>
 • Orchestration des conteneurs Dockers avec KUBERNETES <br>
 # Cloud et DevOps 
-https://www.youtube.com/watch?v=srGiAlnNsDU&list=PLxr551TUsmApVwBMzhtLqrWqcKQs4sh19&index=6 <br>
+https://www.youtube.com/watch?v=QIBEElpFmb0
+https://www.youtube.com/watch?v=wYfhXOuuwaI
+
 ###### Mots clés : Virtualisation, Containerisation, VirtualBox, Docker, SWARM, KUBERNETES, Docker Composer <br>
 Slides : https://fr.slideshare.net/mohamedyoussfi9/presentations
 # Projet Web et Mobile Cinema JEE Spring Angular
-Pour bien comprendre les concepts ci-dessus, ils doivent être mis en œuvre dans un projet concret.
+Pour bien comprendre les concepts ci-dessus, ils doivent être mis en œuvre dans un projet concret.<br>
 Conception : https://www.youtube.com/watch?v=Uy1SpgHF5LQ&list=PLlmPPYlJso_otASQF_qbiH3iw8OpgGZK6&fbclid=IwAR1MuYA23iJaFZe4i4t8PotnLY_sqDGE5jCCJQGjorzw0Byz3fDhoGTUJAA <br>
+
+# Dockerize Angular + Spring Boot Restful CRUD API application
+https://www.youtube.com/watch?v=t6khLJDZTyQ&fbclid=IwAR0wjF-6hAbUoC3zzn6aYJtNCMYj_emaF7cmdbpF6s6OMT3IixYkHlERjxM
