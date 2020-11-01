@@ -6,36 +6,46 @@ Ces cours expliquent les éléments suivants : <br>
 • Création et configuration d’une machine virtuelle Virtual Box avec Linux Ubuntu comme OS; https://www.youtube.com/watch?v=1vYiF8x9GMw <br>
    VirtualBox : https://www.virtualbox.org/wiki/Downloads <br>
    UBUNTU : https://ubuntu.com/download/desktop <br>
+   
 # Containerisation
 https://www.youtube.com/watch?v=i59aomYih_4&t=25s <br>
+
 • Principe des conteneurs d’applications <br>
 • Concepts de base de Docker <br>
 • Architecture de Docker <br>
 • Commandes de base de docker <br>
-  Docker Hub : https://hub.docker.com/
+  Docker Hub : https://hub.docker.com/ <br>
 
 https://www.youtube.com/watch?v=S9m0mTXZEC8&list=PLxr551TUsmApVwBMzhtLqrWqcKQs4sh19&index=5 <br>
 https://www.youtube.com/watch?v=srGiAlnNsDU&list=PLxr551TUsmApVwBMzhtLqrWqcKQs4sh19&index=6 <br>
+
 • Installation et mise en œuvre de docker <br>
+
   Docker : https://docs.docker.com/engine/install/ubuntu/ <br>
-  '''
+  ```
    $ curl -fsSL https://get.docker.com -o get-docker.sh
    $ sudo sh get-docker.sh
-  '''
+   #First Image
+   $ docker run docker/whalesay cowsay boo
+  ```
+  
 • Cycle de vie des images Docker <br>
 • Cycle de vie des conteneurs Docker <br>
+
+# Cloud et DevOps 
+https://www.youtube.com/watch?v=QIBEElpFmb0
+https://www.youtube.com/watch?v=wYfhXOuuwaI
+
 • Docker et DevOps <br>
 • API REST de Docker <br>
 • Création des images Docker <br>
 • Docker Composer <br>
 • Orchestration des conteneurs Docker avec SWARM <br>
 • Orchestration des conteneurs Dockers avec KUBERNETES <br>
-# Cloud et DevOps 
-https://www.youtube.com/watch?v=QIBEElpFmb0
-https://www.youtube.com/watch?v=wYfhXOuuwaI
 
 ###### Mots clés : Virtualisation, Containerisation, VirtualBox, Docker, SWARM, KUBERNETES, Docker Composer <br>
 Slides : https://fr.slideshare.net/mohamedyoussfi9/presentations
+
 # Projet Web et Mobile Cinema JEE Spring Angular
 Pour bien comprendre les concepts ci-dessus, ils doivent être mis en œuvre dans un projet concret.<br>
 Conception : https://www.youtube.com/watch?v=Uy1SpgHF5LQ&list=PLlmPPYlJso_otASQF_qbiH3iw8OpgGZK6&fbclid=IwAR1MuYA23iJaFZe4i4t8PotnLY_sqDGE5jCCJQGjorzw0Byz3fDhoGTUJAA <br>
