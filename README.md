@@ -17,7 +17,11 @@ https://www.youtube.com/watch?v=i59aomYih_4&t=25s <br>
 https://www.youtube.com/watch?v=S9m0mTXZEC8&list=PLxr551TUsmApVwBMzhtLqrWqcKQs4sh19&index=5 <br>
 https://www.youtube.com/watch?v=srGiAlnNsDU&list=PLxr551TUsmApVwBMzhtLqrWqcKQs4sh19&index=6 <br>
 • Installation et mise en œuvre de docker <br>
-  Docker : https://docs.docker.com/engine/install/ubuntu/
+  Docker : https://docs.docker.com/engine/install/ubuntu/ <br>
+  '''
+   $ curl -fsSL https://get.docker.com -o get-docker.sh
+   $ sudo sh get-docker.sh
+  '''
 • Cycle de vie des images Docker <br>
 • Cycle de vie des conteneurs Docker <br>
 • Docker et DevOps <br>
