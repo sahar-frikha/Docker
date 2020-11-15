@@ -26,7 +26,8 @@ https://www.youtube.com/watch?v=srGiAlnNsDU&list=PLxr551TUsmApVwBMzhtLqrWqcKQs4s
 • Cycle de vie des conteneurs Docker <br>
 # Cloud et DevOps 
 • Docker et DevOps <br>
-https://www.youtube.com/watch?v=QIBEElpFmb0  <br>
+### https://www.youtube.com/watch?v=QIBEElpFmb0  <br>
+   Spring io : https://start.spring.io/ <br>
 https://www.youtube.com/watch?v=wYfhXOuuwaI <br>
 • API REST de Docker <br>
    Chocolatey : https://chocolatey.org/install  <br>
@@ -34,7 +35,7 @@ https://www.youtube.com/watch?v=wYfhXOuuwaI <br>
 • Création des images Docker <br>
 https://www.youtube.com/watch?v=wBzix4HLMLY&t=1881s&fbclid=IwAR0PeVwHpfbN8XWB0Z59K7EDiNGOVA5gionXQ_kKOkHNIdEBJHk5s8HmSDI
 • Docker Composer <br>
-https://www.youtube.com/watch?v=j0BvugHj5cE
+https://www.youtube.com/watch?v=j0BvugHj5cE <br>
 • Orchestration des conteneurs Docker avec SWARM <br>
 https://www.youtube.com/watch?v=QUzktpcjKCM <br>
 https://www.youtube.com/watch?v=0XCk4ea856E <br>
